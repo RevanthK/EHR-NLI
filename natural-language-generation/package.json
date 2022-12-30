@@ -22,9 +22,9 @@
   },
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-mocha": "^7.0.2",
+    "gulp-mocha": "^8.0.0",
     "gulp-rosaenlg": "^2.13.0",
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "mochawesome": "^5.0.0",
     "rosaenlg-cli": "^1.13.0"
   }
